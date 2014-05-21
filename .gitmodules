@@ -16,3 +16,12 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "bundle/scrollcolors"]
+	path = bundle/scrollcolors
+	url = https://github.com/vim-scripts/ScrollColors
+[submodule "bundle/scratch"]
+	path = bundle/scratch
+	url = https://github.com/mtth/scratch.vim
