@@ -1,0 +1,9 @@
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/grb256"]
+	path = bundle/grb256
+	url = https://github.com/quanganhdo/grb256.git
+[submodule "bundle/selecta"]
+	path = bundle/selecta
+	url = https://github.com/garybernhardt/selecta.git
