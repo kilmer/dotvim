@@ -7,3 +7,12 @@
 [submodule "bundle/selecta"]
 	path = bundle/selecta
 	url = https://github.com/garybernhardt/selecta.git
+[submodule "bundle/exchange"]
+	path = bundle/exchange
+	url = https://github.com/tommcdo/vim-exchange.git
+[submodule "bundle/hexmode"]
+	path = bundle/hexmode
+	url = https://github.com/fidian/hexmode.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
